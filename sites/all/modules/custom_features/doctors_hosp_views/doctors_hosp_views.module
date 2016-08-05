@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the doctors_hosp_views feature.
+ */
+
+include_once 'doctors_hosp_views.features.inc';

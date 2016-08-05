@@ -1,0 +1,12 @@
+name = doctors_hosp_views
+core = 7.x
+package = Features
+dependencies[] = better_exposed_filters
+dependencies[] = views
+features[ctools][] = views:views_default:3.0
+features[features_api][] = api:2
+features[views_view][] = doctors_associated
+features[views_view][] = find_a_doctor
+features[views_view][] = hospital_network
+features[views_view][] = hospitals_list
+features_exclude[dependencies][ctools] = ctools
