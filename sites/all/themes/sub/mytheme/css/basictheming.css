@@ -1,0 +1,33 @@
+/* line 1, ../sass/basictheming.scss */
+nav {
+  margin-left: 55%;
+}
+
+/* line 4, ../sass/basictheming.scss */
+td {
+  padding-left: 5%;
+  padding-right: 5%;
+  width: 18%;
+  background-color: lavender;
+}
+
+/* line 12, ../sass/basictheming.scss */
+.views-exposed-form .views-exposed-widget {
+  width: 45%;
+}
+
+/* line 15, ../sass/basictheming.scss */
+a {
+  color: #009688;
+}
+
+/* line 18, ../sass/basictheming.scss */
+.views-field-title {
+  font-weight: bold;
+  color: black;
+}
+
+/* line 24, ../sass/basictheming.scss */
+.view-find-a-doctor.view-display-id-page .views-field-title a {
+  color: black;
+}
