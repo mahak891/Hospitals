@@ -2,10 +2,10 @@ nav {
 		margin-left: 55%;
 }
 td{
-		padding-left: 5%;
-    padding-right: 5%;
-    width: 18%;
- 		background-color: lavender;
+	padding-left: 5%;
+	padding-right: 5%;
+	width: 18%;
+	background-color: lavender;
 }	
 
 	
@@ -17,11 +17,17 @@ a{
 }
 .views-field-title{
 	font-weight: bold;
-	color: black;
+	color: #F44336;
 }
 
 .view-find-a-doctor.view-display-id-page {
 	.views-field-title a {
-		color: black;
+		color: #F44336;
 	}
 } 
+
+.views-hospital-network.view-display-id-page {
+	.views-field-title a {
+	  color: orange;
+    }
+}

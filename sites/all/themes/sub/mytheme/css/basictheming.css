@@ -24,10 +24,15 @@ a {
 /* line 18, ../sass/basictheming.scss */
 .views-field-title {
   font-weight: bold;
-  color: black;
+  color: #F44336;
 }
 
 /* line 24, ../sass/basictheming.scss */
 .view-find-a-doctor.view-display-id-page .views-field-title a {
-  color: black;
+  color: #F44336;
+}
+
+/* line 30, ../sass/basictheming.scss */
+.views-hospital-network.view-display-id-page .views-field-title a {
+  color: orange;
 }
